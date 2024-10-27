@@ -1,0 +1,10 @@
+
+Dictionary for API Call:
+stop_id:
+CURRENT_STATUS: the exact status of the vehicle with respeect to the current stop 
+
+
+links: 
+https://gtfs.org/documentation/realtime/proto/
+
+https://new.mta.info/document/134521
